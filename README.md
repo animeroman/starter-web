@@ -21,3 +21,5 @@ Please fork this repository.
 ### Copyright
 
 2024 Aydin. All Rights Reserved
+
+## Update from Dev 1
